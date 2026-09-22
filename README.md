@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="#about">ABOUT</a> · <a href="#tech">TECH</a> · <a href="#currently">CURRENTLY</a> · <a href="#projects">PROJECTS</a> · <a href="#destiny-2">DESTINY 2</a> · <a href="#github-stats">STATS</a> · <a href="#links">LINKS</a>
+  <a href="#user-content-about">ABOUT</a> · <a href="#user-content-tech">TECH</a> · <a href="#user-content-currently">CURRENTLY</a> · <a href="#user-content-projects">PROJECTS</a> · <a href="#user-content-destiny-2">DESTINY 2</a> · <a href="#user-content-github-stats">STATS</a> · <a href="#user-content-links">LINKS</a>
 </p>
 
 ## About
