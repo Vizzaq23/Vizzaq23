@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="210" viewBox="0 0 1000 210" role="img" aria-labelledby="title desc">
+<title id="title">NeRd Vz — Guardian Record</title><desc id="desc">Destiny Tracker snapshot on September 21, 2026. 1,659 lifetime hours, 77,983 total Triumph score, 1.50 Trials K/D, 62.6 percent Trials win rate.</desc>
+<rect x=".5" y=".5" width="999" height="209" rx="3" fill="#101722" stroke="#4e4635"/>
+<path d="M1 1H999" stroke="#d7b877" stroke-width="3"/>
+<path d="M36 22 44 36 36 50 28 36Z M28 28 36 36 44 28 M28 42 36 50 44 42" stroke="#d7b877" fill="none"/>
+<g font-family="Segoe UI,Arial,sans-serif"><text x="65" y="41" fill="#e8e5da" font-size="20" font-weight="600">NeRd Vz</text>
+<text x="975" y="40" text-anchor="end" fill="#d7b877" font-size="12" letter-spacing="2">GUARDIAN RECORD ↗</text>
+<path d="M24 65H976 M255 87V165 M505 87V165 M755 87V165" stroke="#293441"/>
+<g fill="#e8e5da" font-size="43" font-weight="600"><text x="28" y="127">1,659<tspan font-size="19" fill="#8795a6"> h</tspan></text><text x="280" y="127">77,983</text><text x="530" y="127">1.50</text><text x="780" y="127">62.6<tspan font-size="23">%</tspan></text></g>
+<g fill="#b7c1ce" font-size="12" letter-spacing="1.3"><text x="28" y="155">LIFETIME PLAYTIME</text><text x="280" y="155">TOTAL TRIUMPH SCORE</text><text x="530" y="155">TRIALS K/D</text><text x="780" y="155">TRIALS WIN RATE</text></g>
+<text x="28" y="191" fill="#8795a6" font-size="11" letter-spacing="1">SNAPSHOT / 2026.09.21</text><text x="975" y="191" text-anchor="end" fill="#8795a6" font-size="11" letter-spacing="1">SOURCE / DESTINY TRACKER</text></g></svg>
